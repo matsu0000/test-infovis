@@ -13,10 +13,10 @@ checkoutでbranchの移動、移動先を指定する。
 $git push origin test
 ローカルのtest branchでの作業をリモートのtest branchにpush
 
+$git checkout master
 $git merge test
 ローカルのtest branchをローカルのmasterにmerge
 
-$git checkout master
 $git push origin master
 
 
