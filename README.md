@@ -14,5 +14,9 @@ $git push origin test
 ローカルのtest branchでの作業をリモートのtest branchにpush
 
 $git merge test
+ローカルのtest branchをローカルのmasterにmerge
+
+$git checkout master
+$git push origin master
 
 
